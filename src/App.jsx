@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <h1>MINI-BLOG</h1>
+      <h1>MINI-BLOG - EXEMPLO</h1>
     </>
   )
 }
